@@ -45,5 +45,4 @@ export const authConfig = {
   },
   providers: [],
 } satisfies NextAuthConfig;
-
-// Ashwani Raghav
+// work
